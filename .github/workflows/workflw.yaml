@@ -1,5 +1,5 @@
-name: Continuos Integration
-s
+name: Continuos Integrations
+
 on: pull_request
 
 jobs:
